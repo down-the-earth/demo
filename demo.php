@@ -1,3 +1,3 @@
 <?php
 echo "welcome";
-echo "welcome to demo.php";
+echo "welcome to demo";
